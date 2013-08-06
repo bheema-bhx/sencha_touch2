@@ -1,1 +1,1 @@
-This folder contains the views1
+This folder contains the Controllers
